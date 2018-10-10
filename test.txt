@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 58F0-2918
+
+ Directory of C:\Soniya\gitproject
+
+10/10/2018  04:44 PM    <DIR>          .
+10/10/2018  04:44 PM    <DIR>          ..
+10/10/2018  04:44 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  754,049,789,952 bytes free
